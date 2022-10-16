@@ -10,27 +10,27 @@ const coffees = [
   },
   {
     name: "Chatbot Services",
-    image: "images/3.png"
+    image: "images/8.png"
   },
   {
     name: "Blockchain Services",
-    image: "images/4.png"
+    image: "images/3.png"
   },
   {
     name: "Unity Game Services",
-    image: "images/5.png"
+    image: "images/4.png"
   },
   {
     name: "Software development",
-    image: "images/6.png"
+    image: "images/5.png"
   },
   {
     name: "Old to new migrations",
-    image: "images/7.png"
+    image: "images/6.png"
   },
   {
     name: "Cloud development",
-    image: "images/8.png"
+    image: "images/7.png"
   },
   {
     name: "WordPress development",
